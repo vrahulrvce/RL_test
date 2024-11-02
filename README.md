@@ -2,7 +2,7 @@
 
 netplot.py is implemented using bayesian networks
 
-Uses Pgmpy to create a bayesian network and also to calculate the CPD's of the table
+Uses Pgmpy to create a bayesian network and also to calculate the CPT's of the table
 
 Installation : 
 
