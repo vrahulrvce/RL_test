@@ -49,5 +49,5 @@ Episode 9999: Agent 2 Q-values: [[0.11744626 0.077337  ]]
 Total Rewards for Agent 1: 2092.599999999244
 Total Rewards for Agent 2: 1995.699999999229
 ```
-The ray_test.py is still being built, since ray has phased out from agents to algorithms most of the libraries are not working .. (But extracted the deepQ agents from the initial source and modified them to the latest one but  ** CONFLICT FOR NUMPY HENCE USE NUMPY <2.0 Modified the package to fit for NUMPY 1.6.3.0 ** ) 
+The ray_test.py is still being built, since ray has phased out from agents to algorithms most of the libraries are not working .. (But extracted the deepQ agents from the initial source and modified them to the latest one but  **CONFLICT FOR NUMPY HENCE USE NUMPY <2.0 Modified the package to fit for NUMPY 1.6.3.0** ) 
 
